@@ -29,7 +29,7 @@ jobs:
 
 
           - platform: ds918p
-            version: 7.1.0-42661
+            version: 7.0.1-42218
 
           
      
